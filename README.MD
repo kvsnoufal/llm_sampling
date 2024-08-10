@@ -8,7 +8,7 @@ Understanding and exploring affects of temperature and top-p sampling in languag
 
 Understanding and exploring affects of temperature and top-p sampling in language generation. We will be testing the sampling approaches in Gemma-2b-it
 
-Refer Medium Article : [link](https://medium.datadriveninvestor.com/temperature-and-top-p-sampling-in-llms-453bcd888f13)
+Refer Medium Article : [link](https://medium.com/@noufalsamsudin/temperature-and-top-p-sampling-in-llms-453bcd888f13)
 
 ![Demo GIF](./docs/demo.gif)
 
